@@ -1,0 +1,29 @@
+body {
+    background-color: #FEFAE0;
+}
+
+header {
+    background-color: #CCD5AE;
+}
+
+ a, .btn{
+    text-decoration: none;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+}
+
+footer {
+    background-color: #CCD5AE;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+
+    color: #777568;
+}
